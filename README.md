@@ -2,3 +2,7 @@
 <head>
   HOLA
 </head>
+
+<body>
+  HOLA
+</body>
